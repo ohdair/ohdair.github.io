@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    author: Jaewpark
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Knowing its time will come, the cosmos never envies the forsythia
+          subtitle: "코스모스는 개화할 것을 알기에 결코 개나리를 부러워하지 않습니다. 조금 늦어진 것처럼 느껴질지라도, 제 속도로 꾸준히 성장하고 있습니다. 이 여정은 다른 이들과의 비교가 아닌, 자신과의 약속을 지키는 과정입니다. 봄이 오면 개나리가 피어나듯, 나의 시간도 분명히 올 것입니다."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -70,30 +70,16 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: ohdiar@gmail.com
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/ohdair
+        - name: tistory
+          url: https://raidho.tistory.com
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +87,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "The cosmos never envies the forsythia"
       icon: favicon.ico
       iconHeight: 18
 
