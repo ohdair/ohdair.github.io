@@ -23,7 +23,7 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://raidho.tistory.com
           weight: 6
 
 params:
@@ -70,6 +70,8 @@ params:
               url: tags/
             - name: Archive
               url: archive/
+            - name: Blog
+              url: https://raidho.tistory.com
 
     socialIcons:
         - name: CV
@@ -78,8 +80,6 @@ params:
           url: ohdiar@gmail.com
         - name: GitHub
           url: https://github.com/ohdair
-        - name: Tistory
-          url: https://raidho.tistory.com
 
     assets:
         disableScrollBarStyle: true
