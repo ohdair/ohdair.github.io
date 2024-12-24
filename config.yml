@@ -72,7 +72,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: ohdiar@gmail.com
+          url: mailto:ohdiar@gmail.com
         - name: GitHub
           url: https://github.com/ohdair
 
