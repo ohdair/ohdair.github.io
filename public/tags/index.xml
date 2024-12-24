@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Knowing its time will come, the cosmos never envies the forsythia</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://ohdair.github.io/tags/</link>
     <description>Recent content in Tags on Knowing its time will come, the cosmos never envies the forsythia</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ohdair.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://ohdair.github.io/tags/ai/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ohdair.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>효율</title>
+      <link>https://ohdair.github.io/tags/%ED%9A%A8%EC%9C%A8/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ohdair.github.io/tags/%ED%9A%A8%EC%9C%A8/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

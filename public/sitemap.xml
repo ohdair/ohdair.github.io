@@ -2,8 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ohdair.github.io/tags/ai/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ohdair.github.io/books/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ohdair.github.io/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ohdair.github.io/tags/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ohdair.github.io/books/%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%BD%94%EB%A6%AC%EC%95%84-2025/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ohdair.github.io/tags/%ED%9A%A8%EC%9C%A8/</loc>
+    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url>
 </urlset>
