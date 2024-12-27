@@ -6,7 +6,7 @@ This repository contains a [Hugo](https://github.com/gohugoio/hugo) template usi
 The template is documented at https://pascalmichaillat.org/d5/
 
 ## License
-This project is based on the work by Pascal Michaillat (https://pascalmichaillat.org/hugo-website/) and is licensed under the MIT License.
+This project is based on [the code](https://github.com/pmichaillat/hugo-website?tab=readme-ov-file) by Pascal Michaillat and is licensed under the MIT License.
 
 Copyright (c) 2020 nanxiaobei and adityatelange<br/>
 Copyright (c) 2021-2024 adityatelange<br/>
