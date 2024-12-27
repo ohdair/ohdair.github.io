@@ -145,3 +145,4 @@ Alias 로는 해당 단축키가 어떤 기능인지 입력하시고 `Pass varia
 ![Command Setting 2](commandSetting2.png)
 
 포스팅할 글을 만들어서 `Cmd + Shift + P` 를 누르게 되면 자동적으로 GitHub에 올라가게 됩니다.
+변경#1
