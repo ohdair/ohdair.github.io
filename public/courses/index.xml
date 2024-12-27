@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Knowing its time will come, the cosmos never envies the forsythia</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Knowing its time will come, the cosmos never envies the forsythia</description>
+    <title>Courses on Knowing its time will come, the cosmos never envies the forsythia</title>
+    <link>http://localhost:1313/courses/</link>
+    <description>Recent content in Courses on Knowing its time will come, the cosmos never envies the forsythia</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian 사용자의 블로그 자동 포스팅(with Hugo)</title>
       <link>http://localhost:1313/courses/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/</guid>
       <description>Obsidian에서 정리한 기록을 온라인으로 공유하려고 했습니다. 하지만 다른 플랫폼에 내용을 복사해서 붙여넣는 과정이 번거롭고, 글이 제대로 적용되지 않는 경우가 있어 이를 자동화하는 방법을 고민했습니다. 그래서 GitHub Pages를 활용해 효율적으로 기록을 공유하려는 계획을 세웠습니다.</description>
-    </item>
-    <item>
-      <title>트렌드 코리아 2025</title>
-      <link>http://localhost:1313/books/%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%BD%94%EB%A6%AC%EC%95%84-2025/</link>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%BD%94%EB%A6%AC%EC%95%84-2025/</guid>
-      <description>경계가 사라지는 시대, 모든 전제를 원점으로 되돌려라. 대한민국은 열풍의 나라이기도 하다. 해외 토픽을 장식한 푸바오 열풍, 마라탕과 탕후루에 이은 두바이 초콜릿 열풍, AI 열풍, 의대 열풍, 스페셜티 커피 열풍, 레트로 열풍, 남녀노소를 가리지 않는 ‘먼작귀’ 열풍까지…. 이 모든 것이 시사하는 바는 무엇인가? 이런 열풍의 이면에 있는 우리 사회 구성원들의 욕망과 결핍은 무엇일까?</description>
     </item>
   </channel>
 </rss>

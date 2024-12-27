@@ -2,24 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohdair.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/obsidian-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%90%EB%8F%99-%ED%8F%AC%EC%8A%A4%ED%8C%85with-hugo/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ohdair.github.io/books/</loc>
+    <loc>http://localhost:1313/books/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ohdair.github.io/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ohdair.github.io/tags/</loc>
+    <loc>http://localhost:1313/books/%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%BD%94%EB%A6%AC%EC%95%84-2025/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ohdair.github.io/books/%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%BD%94%EB%A6%AC%EC%95%84-2025/</loc>
+    <loc>http://localhost:1313/tags/%ED%9A%A8%EC%9C%A8/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ohdair.github.io/tags/%ED%9A%A8%EC%9C%A8/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ohdair.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>
