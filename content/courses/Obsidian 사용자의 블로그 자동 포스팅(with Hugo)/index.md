@@ -140,7 +140,7 @@ git push
 ```
 
 여기서 **title**은 글 제목으로 `commit` 하기 위해서 입력을 받습니다.
-Alias 로는 해당 단축키가 어떤 기능인지 입력하시고 `Pass variables to standard input (stdin)` 에 **{{title}}** 을 입력합니다. 
+Alias 로는 해당 단축키가 어떤 기능인지 입력하시고 `Pass variables to standard input (stdin)` 에 **{{folder_name}}** 을 입력합니다. 
 
 ![Command Setting 2](commandSetting2.png)
 
