@@ -125,7 +125,9 @@ ln -s TARGET LINK_NAME
 ## 자동으로 GitHub 포스팅
 Obsidian 내 **Shell commands**라는 플러그인을 설치합니다.
 그리고 새로운 Shell command 및 단축키를 입력합니다. 그리고 설정을 눌러줍니다.
+
 ![](CommandSetting1.png)
+
 ```
 #!/bin/bash
 cd ~/GitBlog || exit 1
@@ -139,6 +141,7 @@ git push
 
 여기서 **title**은 글 제목으로 `commit` 하기 위해서 입력을 받습니다.
 Alias 로는 해당 단축키가 어떤 기능인지 입력하시고 `Pass variables to standard input (stdin)` 에 **{{title}}** 을 입력합니다. 
+
 ![](CommandSetting2.png)
 
 포스팅할 글을 만들어서 `Cmd + Shift + P` 를 누르게 되면 자동적으로 GitHub에 올라가게 됩니다.
